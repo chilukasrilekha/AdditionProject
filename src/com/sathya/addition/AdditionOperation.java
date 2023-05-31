@@ -7,6 +7,9 @@ public class AdditionOperation {
 		
 		int result=num1+num2;
 		System.out.println(result);
+		int a=10;
+		int square=a*a;
+		System.out.println(sqaure);
 		
 	}
 
