@@ -7,7 +7,8 @@ public class AdditionOperation {
 		
 		int result=num1+num2;
 		System.out.println(result);
-		
+		int s=num1*num1;
+		System.out.println(s);
 	}
 
 }
